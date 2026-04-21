@@ -1,0 +1,7 @@
+,Pred: Within WHO Guideline,Pred: Above WHO Guideline,Pred: High,Pred: Very High,Pred: Extremely High,Pred: Severe
+Actual: Within WHO Guideline,4446,775,0,0,0,0
+Actual: Above WHO Guideline,447,5578,1093,0,0,0
+Actual: High,0,918,6621,1208,10,0
+Actual: Very High,0,0,1234,5128,1226,0
+Actual: Extremely High,0,0,16,1099,7497,683
+Actual: Severe,0,0,0,0,688,13755
